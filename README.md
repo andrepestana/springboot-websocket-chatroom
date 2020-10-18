@@ -1,6 +1,6 @@
 # springboot-websocket-chatroom
 
-## Update dependencies and build
+## Get dependencies and build
 mvn clean install
 
 ## Run
